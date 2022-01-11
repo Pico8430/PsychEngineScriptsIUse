@@ -1,0 +1,11 @@
+NOTE: This is only for showing where the files need to be, dont do anything else that would ruin the game.
+--
+NOTA: Esto es solo para mostrar donde van los archivos, no hagas nada mas que podria arruinar el juego.
+
+
+BackgroundStuff.json & BackgroundStuff.lua = mods\stages
+CameraMovementPerNote.lua = mods\data\(songname)
+dialogue.lua = mods\data\(songname)
+HealthDrain.lua & HealthDrain.txt = mods\custom_events
+modchart.lua = mods\data\(songname)
+videoscript.lua = mods\data\(songname)
